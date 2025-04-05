@@ -161,7 +161,7 @@ const AboutUs = () => {
       name: 'John Smith',
       role: 'Founder & CEO',
       image: '/images/team/john.jpg',
-      bio: 'Passionate about bridges and engineering, John has been exploring the world's most incredible structures for over 20 years.',
+      bio: 'Passionate about bridges and engineering, John has been exploring the worlds most incredible structures for over 20 years.',
     },
     {
       name: 'Sarah Johnson',
